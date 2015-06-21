@@ -1,5 +1,7 @@
 # wordpress-angularjs
-Ejemplos utilizados en el meetup "WordPress como API REST y AngularJS"
+Ejemplos utilizados en el meetup "WordPress como API REST y AngularJS".
+
+La finalidad de los ejemplos es ver cómo podemos utilizar el ejemplo que tiene AngularJS en su página para obtener los datos de una fuente externa mediante una API REST de WordPress.
 
 ## Requisitos
 Para ejecutar los proyectos es necesario:
