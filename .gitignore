@@ -11,3 +11,6 @@ wpapiangularjs/wp-content/cache/
 wpapiangularjs/wp-content/upgrade/
 wpapiangularjs/wp-content/uploads/
 wpapiangularjs/wp-content/wp-cache-config.php
+
+phonecat-wordpress/node_modules
+phonecat-wordpress/app/bower_components
