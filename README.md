@@ -34,3 +34,4 @@ npm start
 * [WP-API restfull JSON and post meta?](http://wordpress.stackexchange.com/questions/154843/wp-api-restfull-json-and-post-meta)
 * [Display custom post metadata](https://gist.github.com/joedajigalo/20b362622da164b861ca)
 * [Ryan McCue: The WordPress REST API](https://wordpress.tv/2014/11/19/ryan-mccue-the-wordpress-rest-api/)
+* [WordPress JSON API Comparison](https://github.com/WP-API/WP-API.github.io/blob/master/misc/comparison.md)
